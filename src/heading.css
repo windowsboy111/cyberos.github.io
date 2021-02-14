@@ -1,0 +1,24 @@
+.website-header {
+    height: 10em;
+    width: 100vw;
+    justify-content: center;
+    display: flex;
+    background-color: var(--meui-light-secondary-background-color);
+    user-select: none;
+}
+
+.dark-mode .website-header {
+    background-color: var(--meui-dark-secondary-background-color);
+}
+
+.website-header-text {
+    display: flex;
+    align-items: center;
+    font-size: 3em;
+}
+
+.header-cyber-logo {
+    width: 2em;
+    height: 2em;
+    margin-right: 0.5em;
+}
