@@ -2,7 +2,7 @@ import React from 'react';
 import './heading.css';
 import CyberLogo from './cyber-logo.svg';
 
-class Heading extends React.Component {
+export default class Heading extends React.Component {
     render() {
         return (
             <div class="website-header">
@@ -14,5 +14,3 @@ class Heading extends React.Component {
         );
     }
 }
-
-export default Heading;

@@ -1,7 +1,7 @@
 import React from 'react';
 import Heading from './Heading';
 
-class Website extends React.Component {
+export default class Website extends React.Component {
     render() {
         return (
             <div className="website-root">
@@ -21,4 +21,3 @@ class Website extends React.Component {
     }
 }
 
-export default Website;
