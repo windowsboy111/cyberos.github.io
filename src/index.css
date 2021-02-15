@@ -60,6 +60,7 @@ code {
     border-style: solid;
     border-radius: 0.5em;
     padding: 0.4em 0.6em;
+    margin: 0.5em;
     transition: background-color 0.125s ease-in-out;
     background-color: var(--meui-light-secondary-background-color);
 }
