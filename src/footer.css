@@ -1,0 +1,29 @@
+.footer-container {
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  justify-content: center;
+  background-color: var(--meui-light-secondary-background-color);
+  color: var(--meui-light-text-color);
+  text-align: center;
+}
+
+.dark-mode .footer-container {
+  background-color: var(--meui-dark-secondary-background-color);
+  color: var(--meui-dark-text-color);
+}
+
+.footer-content p {
+  margin: 0.5em;
+}
+
+.footer-copyright-notice {
+  color: var(--meui-light-disabled-text-color);
+  user-select: none;
+}
+
+.dark-mode .footer-copyright-notice {
+  color: var(--meui-dark-disabled-text-color);
+}

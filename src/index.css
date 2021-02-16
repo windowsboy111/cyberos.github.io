@@ -1,95 +1,92 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Noto+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Noto+Sans&display=swap");
 
 :root {
-    /* Meui-Light color definitions */
-    --meui-light-background-color: #FFFFFF;
-    --meui-light-secondary-background-color: #F5F5F5;
+  /* Meui-Light color definitions */
+  --meui-light-background-color: #ffffff;
+  --meui-light-secondary-background-color: #f5f5f5;
 
-    --meui-light-text-color: #171A20;
-    --meui-light-text-color-lowopacity: #171A2019;
+  --meui-light-text-color: #171a20;
+  --meui-light-text-color-lowopacity: #171a2019;
 
-    --meui-light-disabled-text-color: #888888;
+  --meui-light-disabled-text-color: #888888;
 
-    /* Meui-Dark color definitions */
-    --meui-dark-background-color: #3B3B3D;
-    --meui-dark-secondary-background-color: #2E2E2E;
+  /* Meui-Dark color definitions */
+  --meui-dark-background-color: #3b3b3d;
+  --meui-dark-secondary-background-color: #2e2e2e;
 
-    --meui-dark-text-color: #FFFFFF;
-    --meui-dark-text-color-lowopacity: #FFFFFF19;
+  --meui-dark-text-color: #ffffff;
+  --meui-dark-text-color-lowopacity: #ffffff19;
 
-    --meui-dark-disabled-text-color: #5C5C5C;
+  --meui-dark-disabled-text-color: #5c5c5c;
 
-    /* Other Meui color definitions */
-    --meui-blue-accent-color: #2273E6;
+  /* Other Meui color definitions */
+  --meui-blue-accent-color: #2273e6;
 
-    --meui-text-link-color: #2196F3;
+  --meui-text-link-color: #2196f3;
 }
 
-h1, h2 {
-    font-weight: normal;
+h1,
+h2 {
+  font-weight: normal;
 }
 
 body {
-    margin: 0;
-    font-family: 'Noto Sans';
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    background-color: var(--meui-light-background-color);
-    color: var(--meui-light-text-color);
+  margin: 0;
+  font-family: "Noto Sans";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--meui-light-background-color);
+  color: var(--meui-light-text-color);
 }
 
 body.dark-mode {
-    background-color: var(--meui-dark-background-color);
-    color: var(--meui-dark-text-color);
+  background-color: var(--meui-dark-background-color);
+  color: var(--meui-dark-text-color);
 }
 
 code {
-    font-family: 'JetBrains Mono';
+  font-family: "JetBrains Mono";
 }
 
 .website-content {
-    margin: 0em 2em;
+  margin: 0em 2em;
 }
 
 .button {
-    color: var(--meui-light-text-color);
-    text-decoration: none;
-    font-size: 1.5em;
-    border-color: var(--meui-blue-accent-color);
-    border-width: 0.1em;
-    border-style: solid;
-    border-radius: 0.5em;
-    padding: 0.4em 0.6em;
-    margin: 0.5em;
-    transition: background-color 0.125s ease-in-out;
-    background-color: var(--meui-light-secondary-background-color);
+  color: var(--meui-light-text-color);
+  text-decoration: none;
+  font-size: 1.5em;
+  border-color: var(--meui-blue-accent-color);
+  border-width: 0.1em;
+  border-style: solid;
+  border-radius: 0.5em;
+  padding: 0.3em 0.6em;
+  margin: 0.5em;
+  transition: background-color 0.125s ease-in-out;
+  background-color: var(--meui-light-secondary-background-color);
 }
 
 .dark-mode .button {
-    color: var(--meui-dark-text-color);
-    background-color: var(--meui-dark-secondary-background-color);
+  color: var(--meui-dark-text-color);
+  background-color: var(--meui-dark-secondary-background-color);
 }
 
 .button:hover {
-    background-color: var(--meui-light-text-color-lowopacity);
+  background-color: var(--meui-light-text-color-lowopacity);
 }
 
 .dark-mode .button:hover {
-    background-color: var(--meui-dark-text-color-lowopacity);
+  background-color: var(--meui-dark-text-color-lowopacity);
 }
 
 .disabled {
-    color: var(--meui-light-disabled-text-color);
+  color: var(--meui-light-disabled-text-color);
 }
 
 .dark-mode .disabled {
-    color: var(--meui-light-disabled-text-color);
+  color: var(--meui-light-disabled-text-color);
 }
 
 a {
-    color: var(--meui-text-link-color);
-}
-
-.large-margin-top {
-    margin-top: 5em;
+  color: var(--meui-text-link-color);
 }

@@ -1,17 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import Website from './Website';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+import { getThemeMode } from "./ThemeMode";
+import Website from "./Website";
 
 ReactDOM.render(
-    <React.StrictMode>
-        <Website />
-    </React.StrictMode>,
-    document.querySelector('#root')
+  <React.StrictMode>
+    <Website />
+  </React.StrictMode>,
+  document.querySelector("#root")
 );
 
-let defaultMode = 'light';
-if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    defaultMode = 'dark';
-}
-document.body.classList.add(`${defaultMode}-mode`);
+document.body.classList.add(`${getThemeMode()}-mode`);
