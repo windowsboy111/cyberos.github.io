@@ -38,7 +38,7 @@ body {
     color: var(--meui-light-text-color);
 }
 
-#root.dark-mode {
+body.dark-mode {
     background-color: var(--meui-dark-background-color);
     color: var(--meui-dark-text-color);
 }
