@@ -5,8 +5,8 @@ import CyberLogo from './cyber-logo.svg';
 export default class Heading extends React.Component {
     render() {
         return (
-            <div class="website-header">
-                <h1 class="website-header-text">
+            <div className="website-header">
+                <h1 className="website-header-text">
                     <img className="header-cyber-logo" src={CyberLogo} />
                     CyberOS
                 </h1>

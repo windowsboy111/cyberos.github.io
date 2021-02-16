@@ -7,7 +7,7 @@ ReactDOM.render(
     <React.StrictMode>
         <Website />
     </React.StrictMode>,
-    document.body
+    document.querySelector('#root')
 );
 
 let defaultMode = 'light';
