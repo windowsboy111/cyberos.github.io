@@ -2,10 +2,13 @@ import React from "react";
 import Heading from "./Heading";
 import Footer from "./Footer";
 import getLanguageKey from "./Translations";
-import PreviewImage from "./images/preview.png";
+import { isDarkMode } from "./ThemeMode";
+import PreviewImageLight from "./images/preview_light.png";
+import PreviewImageDark from "./images/preview_dark.png";
 
 export default class Website extends React.Component {
   render() {
+    let previewImage = isDarkMode() ? PreviewImageDark : PreviewImageLight;
     return (
       <div className="website-root">
         <Heading />
@@ -20,7 +23,11 @@ export default class Website extends React.Component {
                 GitHub
               </a>
             </div>
-            <img className="preview_image" src={PreviewImage}></img>
+            <div className="preview-image-container">
+              <a href={previewImage}>
+                <img className="preview-image" src={previewImage}></img>
+              </a>
+            </div>
           </center>
         </div>
         <Footer />
