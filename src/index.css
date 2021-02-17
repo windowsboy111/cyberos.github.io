@@ -35,12 +35,12 @@ body {
   font-family: "Noto Sans";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--meui-light-background-color);
+  background-color: var(--meui-light-secondary-background-color);
   color: var(--meui-light-text-color);
 }
 
 body.dark-mode {
-  background-color: var(--meui-dark-background-color);
+  background-color: var(--meui-dark-secondary-background-color);
   color: var(--meui-dark-text-color);
 }
 
@@ -52,18 +52,21 @@ code {
   margin: 0em 2em;
 }
 
+.button-container {
+  margin: 2.5em 0em;
+}
+
 .button {
   color: var(--meui-light-text-color);
   text-decoration: none;
   font-size: 1.5em;
   border-color: var(--meui-blue-accent-color);
-  border-width: 0.1em;
+  border-width: 2px;
   border-style: solid;
   border-radius: 0.5em;
   padding: 0.3em 0.6em;
   margin: 0.5em;
   transition: background-color 0.125s ease-in-out;
-  background-color: var(--meui-light-secondary-background-color);
 }
 
 .dark-mode .button {

@@ -11,13 +11,8 @@ export default class Footer extends React.Component {
     return (
       <div className="footer-container">
         <div className="footer-content">
-          <p className="footer-copyright-notice">
-            {getLanguageKey("footerCopyright")}
-          </p>
-          <p
-            className="footer-copyright-notice"
-            dangerouslySetInnerHTML={{ __html: wipDisclaimerHTML }}
-          ></p>
+          <p>{getLanguageKey("footerCopyright")}</p>
+          <p dangerouslySetInnerHTML={{ __html: wipDisclaimerHTML }}></p>
         </div>
       </div>
     );

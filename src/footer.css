@@ -5,13 +5,11 @@
   bottom: 0;
   width: 100%;
   justify-content: center;
-  background-color: var(--meui-light-secondary-background-color);
   color: var(--meui-light-text-color);
   text-align: center;
 }
 
 .dark-mode .footer-container {
-  background-color: var(--meui-dark-secondary-background-color);
   color: var(--meui-dark-text-color);
 }
 

@@ -10,15 +10,15 @@ export default class Website extends React.Component {
         <Heading />
         <div className="website-content">
           <center>
-            <h2>{getLanguageKey("introQuote")}</h2>
-            <p>
+            <h1>{getLanguageKey("introQuote")}</h1>
+            <div className="button-container">
               <a className="button" href="https://dir.omame.tech/cyberos-iso/">
                 {getLanguageKey("download")}
               </a>
               <a className="button" href="https://github.com/cyberos">
                 GitHub
               </a>
-            </p>
+            </div>
           </center>
         </div>
         <Footer />
