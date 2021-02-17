@@ -93,3 +93,9 @@ code {
 a {
   color: var(--meui-text-link-color);
 }
+
+.preview_image {
+  width: 800px;
+  height: 500px;
+  padding-top: 10px;
+}

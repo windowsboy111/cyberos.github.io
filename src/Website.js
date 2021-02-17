@@ -2,6 +2,7 @@ import React from "react";
 import Heading from "./Heading";
 import Footer from "./Footer";
 import getLanguageKey from "./Translations";
+import PreviewImage from "./images/preview.png";
 
 export default class Website extends React.Component {
   render() {
@@ -19,6 +20,7 @@ export default class Website extends React.Component {
                 GitHub
               </a>
             </div>
+            <img className="preview_image" src={PreviewImage}></img>
           </center>
         </div>
         <Footer />
