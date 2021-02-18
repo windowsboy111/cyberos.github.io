@@ -1,9 +1,11 @@
 import en_US from "./translations/en_US.json";
 import pl from "./translations/pl.json";
+import de from "./translations/de.json"
 
 let translations = {
   en_US: en_US.website,
   pl: pl.website,
+  de: de.website,
 };
 
 function getLanguage() {
