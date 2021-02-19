@@ -18,9 +18,17 @@ jobs:
     
     steps:
     - uses: actions/checkout@v2
-    - name: Deploy with Node.js ${{ matrix.node-version }}
+    - name: Build
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: npm run deploy
+    - run: npm run build
+    
+    - name: Deploy
+      uses: tsunematsu21/actions-publish-gh-pages@v1.0.1
+      with:
+        dir: build
+        branch: gh-pages
+        token: ${{ secrets.ACCESS_TOKEN }}
+      
