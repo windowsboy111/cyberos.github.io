@@ -8,7 +8,7 @@ let translations = {
   de: de.website,
 };
 
-function getLanguage() {
+export function getLanguage() {
   return navigator.language in translations ? navigator.language : "en_US";
 }
 
