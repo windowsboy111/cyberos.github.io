@@ -54,7 +54,7 @@ code {
 }
 
 .button-container {
-  margin: 2.5em 0em;
+  margin: 1em 0em;
 }
 
 .button {
@@ -68,6 +68,7 @@ code {
   padding: 0.3em 0.6em;
   margin: 0.5em;
   transition: background-color 0.125s ease-in-out;
+  display: inline-block;
 }
 
 .dark-mode .button {

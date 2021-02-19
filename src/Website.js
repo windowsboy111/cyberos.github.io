@@ -22,6 +22,9 @@ export default class Website extends React.Component {
               <a className="button" href="https://github.com/cyberos">
                 GitHub
               </a>
+              <a className="button" href="/docs/">
+                {getLanguageKey("docs")}
+              </a>
             </div>
             <div className="preview-image-container">
               <a href={previewImage}>
