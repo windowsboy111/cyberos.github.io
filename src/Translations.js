@@ -1,11 +1,13 @@
-import en_US from "./translations/en_US.json";
+import en_US from "./translations/en-US.json";
 import pl from "./translations/pl.json";
-import de from "./translations/de.json"
+import de from "./translations/de.json";
+import ru from "./translations/ru.json";
 
 let translations = {
   en_US: en_US.website,
   pl: pl.website,
   de: de.website,
+  ru: ru.website,
 };
 
 export function getLanguage() {
@@ -13,7 +15,5 @@ export function getLanguage() {
 }
 
 export default function getLanguageKey(key) {
-  let language = getLanguage();
-
-  return translations[language][key];
+  return translations[getLanguage()][key];
 }
