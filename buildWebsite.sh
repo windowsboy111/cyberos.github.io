@@ -14,7 +14,7 @@ apt-get autoclean
 apt-get install -f
 apt-get autoremove
 curl -fsSL https://deb.nodesource.com/setup_15.x | bash -
-apt-get install -y nodejs npm
+apt-get install -y nodejs
 npm install
 
 ## Variables
