@@ -6,7 +6,15 @@
 
 ## Install dependencies
 apt-get update
-apt-get -y install git rsync nodejs npm
+# Try to fix broken packages (smh ubuntu)
+# https://askubuntu.com/questions/1057737/ubuntu-18-04-lts-server-npm-depends-node-gyp-0-10-9-but-it-is-not-going#1057748
+apt-get remove --purge -y nodejs npm
+apt-get clean
+apt-get autoclean
+apt-get install -f
+apt-get autoremove
+curl -fsSL https://deb.nodesource.com/setup_15.x | bash -
+apt-get install -y nodejs npm
 npm install
 
 ## Variables
