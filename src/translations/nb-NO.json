@@ -1,8 +1,9 @@
 {
     "website": {
-        "footerCopyright": "",
-        "wipDisclaimer": "",
+        "footerCopyright": "Gemenhetslig 🄯 Opphavsrett © CyberOS-laget 2020–2021",
+        "wipDisclaimer": "Hei, denne siden er under konstruksjon. Du kan hjelpe til ved å [sende en flettingsforespørsel].",
         "download": "Last ned",
-        "introQuote": ""
+        "introQuote": "En Linux-distribusjon bygd med Qt Quick og Arch Linux.",
+        "docs": "Dokumentasjon"
     }
 }
