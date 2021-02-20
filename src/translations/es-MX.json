@@ -1,1 +1,9 @@
-{}
+{
+    "website": {
+        "docs": "Documentación",
+        "footerCopyright": "Copyright © Equipo CyberOS 2020 ~ 2021",
+        "wipDisclaimer": "Psst, este sitio web es un trabajo en progreso. Puedes ayudar en el [enviando un pull request].",
+        "download": "Descargar",
+        "introQuote": "Una distribución GNU/Linux hecha con Qt Quick y Arch Linux."
+    }
+}
