@@ -1,5 +1,6 @@
 {
     "website": {
-        "introQuote": "Una distribución Linux elaborada con Qt Quick y Arch Linux."
+        "introQuote": "Una distribución Linux elaborada con Qt Quick y Arch Linux.",
+        "download": "Descargar"
     }
 }
