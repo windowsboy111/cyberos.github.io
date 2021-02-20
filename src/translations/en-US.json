@@ -1,9 +1,9 @@
 {
-  "website": {
-    "introQuote": "A Linux distribution built with Qt Quick and Arch Linux.",
-    "download": "Download",
-    "wipDisclaimer": "Psst, this website is a work-in-progress. You can help by [sending a pull request].",
-    "footerCopyright": "Copyright © CyberOS Team 2020 ~ 2021",
-    "docs": "Documentation"
-  }
+    "website": {
+        "introQuote": "A Linux distribution built with Qt Quick and Arch Linux.",
+        "download": "Download",
+        "wipDisclaimer": "Psst, this website is a work-in-progress. You can help by [sending a pull request].",
+        "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020–2021",
+        "docs": "Documentation"
+    }
 }
