@@ -1,1 +1,5 @@
-{}
+{
+    "website": {
+        "introQuote": "Una distribución Linux elaborada con Qt Quick y Arch Linux."
+    }
+}
