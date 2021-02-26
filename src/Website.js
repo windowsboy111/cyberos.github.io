@@ -16,7 +16,7 @@ export default class Website extends React.Component {
           <center>
             <h1>{getLanguageKey("introQuote")}</h1>
             <div className="button-container">
-              <a className="button" href="https://dir.omame.tech/cyberos-iso/">
+              <a className="button" href="https://dir.omame.tech/cyberos-iso/CyberOS-latest-x86_64.iso">
                 {getLanguageKey("download")}
               </a>
               <a className="button" href="https://github.com/cyberos">
