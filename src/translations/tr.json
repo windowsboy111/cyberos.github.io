@@ -1,6 +1,9 @@
 {
     "website": {
         "introQuote": "Qt Quick ve Arch Linux ile oluşturulmuş bir Linux dağıtımı.",
-        "download": "İndir"
+        "download": "İndir",
+        "docs": "Dokümantasyon",
+        "footerCopyright": "Telif Hakkı © CyberOS Ekibi 2020–2021",
+        "wipDisclaimer": "Psst, bu websitesi hala bitmedi. Bir pull request yollayarak yardımcı olabilirsin."
     }
 }
