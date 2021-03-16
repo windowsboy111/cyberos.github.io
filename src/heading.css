@@ -1,24 +1,86 @@
 .website-header {
-  height: 10em;
+  height: 5em;
   width: 100vw;
-  justify-content: center;
+  justify-content: space-evenly;
+  align-items: center;
   display: flex;
-  background-color: var(--meui-light-background-color);
+  background-color: var(--meui-light-secondary-background-color);
   user-select: none;
+  position: sticky;
+  z-index: 2;
 }
 
 .dark-mode .website-header {
-  background-color: var(--meui-dark-background-color);
+  background-color: var(--meui-dark-secondary-background-color);
 }
 
 .website-header-text {
   display: flex;
   align-items: center;
-  font-size: 3.5em;
+  font-size: 2em;
 }
 
 .header-cyber-logo {
   width: 1.75em;
   height: 1.75em;
   margin-right: 0.5em;
+}
+
+.header-button {
+  display: inline-block;
+  margin: 0.5em;
+}
+
+.header-hamburger-button-container {
+  display: block;
+  position: absolute;
+  top: 0em;
+  right: 0;
+  transition: ease-in-out 0.3s;
+  transition-property: opacity, top;
+  z-index: -1;
+  background-color: var(--meui-light-secondary-background-color);
+  opacity: 0;
+  width: 100vw;
+}
+
+.dark-mode .header-hamburger-button-container {
+  background-color: var(--meui-dark-secondary-background-color);
+}
+
+.header-hamburger-button-container.shown {
+  display: block;
+  top: 5em;
+  opacity: 1;
+}
+
+.header-button-container {
+  display: inline-block;
+}
+
+.header-button-hamburger {
+  display: inline-block;
+  border: none;
+  background-color: transparent;
+  width: 4em;
+  height: 4em;
+  outline: none;
+}
+
+.header-button-hamburger img {
+  padding-top: 0.5em;
+  width: 2.5em;
+  height: 2.5em;
+}
+
+.header-hamburger-button-container .header-button {
+  display: block;
+  height: 0;
+  transition: ease-in-out 0.3s height;
+  padding-left: 1em;
+}
+
+.header-hamburger-button-container.shown .header-button {
+  display: block;
+  height: 2em;
 }

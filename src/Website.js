@@ -15,17 +15,6 @@ export default class Website extends React.Component {
         <div className="website-content">
           <center>
             <h1>{getLanguageKey("introQuote")}</h1>
-            <div className="button-container">
-              <a className="button" href="https://dir.omame.tech/cyberos-iso/CyberOS-latest-x86_64.iso">
-                {getLanguageKey("download")}
-              </a>
-              <a className="button" href="https://github.com/cyberos">
-                GitHub
-              </a>
-              <a className="button" href="/docs/">
-                {getLanguageKey("docs")}
-              </a>
-            </div>
             <div className="preview-image-container">
               <a href={previewImage}>
                 <img className="preview-image" src={previewImage}></img>
