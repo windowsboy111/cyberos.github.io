@@ -1,6 +1,6 @@
 {
   "name": "cyberos-website",
-  "version": "rolling",
+  "version": "1.0.0",
   "private": false,
   "homepage": "https://cyberos.github.io",
   "dependencies": {
