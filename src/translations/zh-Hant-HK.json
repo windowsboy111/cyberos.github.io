@@ -1,1 +1,9 @@
-{}
+{
+    "website": {
+        "wipDisclaimer": "shh~ 喂，我哋仲係改進緊個網站呀，[畀個 pull request] 嚟幫吓我哋手啦！",
+        "footerCopyright": "板拳傻冇 🄯 版權所有 © CyberOS 團隊 2020–2021",
+        "docs": "文檔",
+        "download": "下載",
+        "introQuote": "一個用Qt Quick 同 Arch Linux 整嘅 Linux 發行版。"
+    }
+}
