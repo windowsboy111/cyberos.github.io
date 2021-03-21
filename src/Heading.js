@@ -3,18 +3,27 @@ import "./heading.css";
 import CyberLogo from "./images/cyber-logo.svg";
 import getLanguageKey from "./Translations";
 import Hamburger from "./Hamburger";
+import { Link } from "react-router-dom";
 
 export default class Heading extends React.Component {
   render() {
     return (
       <div className="website-header">
         <p className="website-header-text">
-          <img className="header-cyber-logo" src={CyberLogo} />
-          CyberOS
+          <Link to="/">
+            <img className="header-cyber-logo" src={CyberLogo} />
+            CyberOS
+          </Link>
         </p>
 
         <Hamburger>
-          <a className="header-button" href="https://dir.omame.tech/cyberos-iso/">
+          <Link to="/about" className="header-button">
+            About
+          </Link>
+          <a
+            className="header-button"
+            href="https://dir.omame.tech/cyberos-iso/"
+          >
             {getLanguageKey("download")}
           </a>
           <a className="header-button" href="https://github.com/cyberos">
