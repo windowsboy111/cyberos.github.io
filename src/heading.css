@@ -31,6 +31,14 @@
   margin: 0.5em;
 }
 
+a.header-button {
+  text-decoration: none;
+}
+
+a.header-button:hover {
+  text-decoration: underline;
+}
+
 .header-hamburger-button-container {
   display: block;
   position: absolute;
