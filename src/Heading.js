@@ -18,7 +18,7 @@ export default class Heading extends React.Component {
 
         <Hamburger>
           <Link to="/about" className="header-button">
-            About
+            {getLanguageKey("about")}
           </Link>
           <a
             className="header-button"

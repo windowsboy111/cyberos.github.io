@@ -1,6 +1,7 @@
 import React from "react";
 import Heading from "./Heading";
 import Footer from "./Footer";
+import About from "./About";
 import getLanguageKey from "./Translations";
 import { isDarkMode } from "./ThemeMode";
 import PreviewImageLight from "./images/preview_light.png";
@@ -17,9 +18,7 @@ export default class Website extends React.Component {
           <div className="website-content">
             <Switch>
               <Route path="/about">
-                <div>
-                  <h1>insert about page here</h1>
-                </div>
+                <About/>
               </Route>
               <Route path="/">
                 <center>
