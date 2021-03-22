@@ -10,7 +10,7 @@ export default class Hamburger extends React.Component {
     this.state = { open: false };
   }
 
-  openHamburgerMenu() {
+  toggleHamburgerMenu() {
     this.setState({ open: !this.state.open });
   }
 
@@ -26,7 +26,7 @@ export default class Hamburger extends React.Component {
       <div className="header-button-container">
         <button
           className="header-button-hamburger"
-          onClick={() => this.openHamburgerMenu()}
+          onClick={() => this.toggleHamburgerMenu()}
         >
           <img src={isDarkMode() ? iconDark : iconLight} />
         </button>
