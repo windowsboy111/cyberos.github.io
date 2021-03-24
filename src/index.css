@@ -51,6 +51,9 @@ code {
 
 .website-content {
   margin: 0em 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .button-container {

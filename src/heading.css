@@ -14,10 +14,16 @@
   background-color: var(--meui-dark-secondary-background-color);
 }
 
-.website-header-text {
+.website-header-text a {
+  color: var(--meui-light-text-color);
+  text-decoration: none;
   display: flex;
   align-items: center;
   font-size: 2em;
+}
+
+.dark-mode .website-header-text a {
+  color: var(--meui-dark-text-color);
 }
 
 .header-cyber-logo {
