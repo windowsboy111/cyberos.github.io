@@ -4,6 +4,10 @@
         "docs": "Dokumentace",
         "footerCopyright": "Copyleft 🄯 Copyright © Tým CyberOS 2020–2021",
         "download": "Stáhnout",
-        "introQuote": "Linuxová distribuce postavená na Qt Quick a Arch Linux."
+        "introQuote": "Linuxová distribuce postavená na Qt Quick a Arch Linux.",
+        "about-CyberOSTeam": "Tým CyberOS",
+        "about-p1": "CyberOS je linuxová distribuce postavená na Qt Quick a Arch Linuxu.",
+        "aboutCyberOS": "O společnosti CyberOS",
+        "about": "O"
     }
 }
