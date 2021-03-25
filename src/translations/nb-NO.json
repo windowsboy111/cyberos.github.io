@@ -4,6 +4,10 @@
         "wipDisclaimer": "Hei, denne siden er under konstruksjon. Du kan hjelpe til ved å [sende en flettingsforespørsel].",
         "download": "Last ned",
         "introQuote": "En Linux-distribusjon bygd med Qt Quick og Arch Linux.",
-        "docs": "Dokumentasjon"
+        "docs": "Dokumentasjon",
+        "about-CyberOSTeam": "CyberOS-laget",
+        "about-p1": "CyberOS er en Linux-distribusjon bygget med Qt Quick og Arch Linux.",
+        "aboutCyberOS": "Om CyberOS",
+        "about": "Om"
     }
 }
