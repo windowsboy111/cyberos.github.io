@@ -4,6 +4,10 @@
         "wipDisclaimer": "Тсс, этот сайт находится в стадии разработки. Вы можете помочь, [отправив pull request].",
         "download": "Скачать",
         "introQuote": "Дистрибутив Linux, созданный с использованием Qt Quick и Arch Linux.",
-        "docs": "Документация"
+        "docs": "Документация",
+        "about-CyberOSTeam": "Команда разработчиков CyberOS",
+        "about-p1": "CyberOS - это дистрибутив Linux, собранный с Qt Quick и Arch Linux.",
+        "aboutCyberOS": "О CyberOS",
+        "about": "О системе"
     }
 }
