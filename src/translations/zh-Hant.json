@@ -4,6 +4,10 @@
         "docs": "文件资料",
         "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021。",
         "wipDisclaimer": "Psst, 这个网站是一个正在进行中的工作。您可以通过[发送拉取请求]来帮助我们。",
-        "introQuote": "一个用Qt Quick和Arch Linux构建的Linux发行版。"
+        "introQuote": "一个用Qt Quick和Arch Linux构建的Linux发行版。",
+        "about-CyberOSTeam": "CyberOS 團隊",
+        "about-p1": "CyberOS是一个用Qt Quick和Arch Linux构建的Linux发行版。",
+        "aboutCyberOS": "关于CyberOS",
+        "about": "關於"
     }
 }
