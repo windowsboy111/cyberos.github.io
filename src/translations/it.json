@@ -4,6 +4,10 @@
         "docs": "Documentazione",
         "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
         "wipDisclaimer": "Psst, questo sito è un work-in-progress. Puoi aiutare [inviando una richiesta di pull].",
-        "introQuote": "Una distribuzione Linux costruita con Qt Quick e Arch Linux."
+        "introQuote": "Una distribuzione Linux costruita con Qt Quick e Arch Linux.",
+        "about-CyberOSTeam": "Squadra CyberOS",
+        "about-p1": "CyberOS è una distribuzione Linux costruita con Qt Quick e Arch Linux.",
+        "aboutCyberOS": "Informazioni su CyberOS",
+        "about": "Al riguardo"
     }
 }
