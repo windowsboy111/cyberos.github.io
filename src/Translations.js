@@ -1,36 +1,49 @@
+// FIXME: this is kinda ugly and tedious, it'd be nice if we had a better way of importing all of them
 import cs from "./translations/cs.json";
 import de from "./translations/de.json";
+import el from "./translations/el.json";
 import en_US from "./translations/en-US.json";
-import es_MX from "./translations/es-MX.json";
 import es from "./translations/es.json";
+import es_MX from "./translations/es-MX.json";
+import fa from "./translations/fa.json";
+import he_IL from "./translations/he-IL.json";
+import he from "./translations/he.json";
 import it from "./translations/it.json";
 import nb_NO from "./translations/nb-NO.json";
 import pl from "./translations/pl.json";
 import pt_BR from "./translations/pt-BR.json";
 import ru from "./translations/ru.json";
 import si from "./translations/si.json";
+import th from "./translations/th.json";
 import tr from "./translations/tr.json";
-import zh_Hans from "./translations/zh-Hans.json";
-import zh_Hant_HK from "./translations/zh-Hant-HK.json";
-import zh_Hant from "./translations/zh-Hant.json";
+import uk from "./translations/uk.json";
+import zh_HK from "./translations/zh-HK.json";
+import zh from "./translations/zh.json";
+import zh_TW from "./translations/zh-TW.json";
 
-let translations = {
-  cs: cs,
-  de: de,
-  "en-US": en_US,
-  "es-MX": es_MX,
-  es: es,
-  it: it,
-  "nb-NO": nb_NO,
-  pl: pl,
-  "pt-BR": pt_BR,
-  ru: ru,
-  si: si,
-  tr: tr,
-  "zh": zh_Hans,
-  "zh-CN": zh_Hans,
-  "zh-HK": zh_Hant_HK,
-  "zh-TW": zh_Hant,
+const translations = {
+  cs,
+  de,
+  el,
+  'en-US': en_US,
+  es,
+  'es-MX': es_MX,
+  fa,
+  'he-IL': he_IL,
+  he,
+  it,
+  'nb-NO': nb_NO,
+  pl,
+  'pt-BR': pt_BR,
+  ru,
+  si,
+  th,
+  tr,
+  uk,
+  zh,
+  'zh-CN': zh,
+  'zh-HK': zh_HK,
+  'zh-TW': zh_TW
 };
 
 export function getLanguage() {
