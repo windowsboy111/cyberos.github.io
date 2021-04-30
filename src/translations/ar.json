@@ -1,1 +1,13 @@
-{}
+{
+    "website": {
+        "about-CyberOSTeam": "فريق CyberOS",
+        "about-p1": "CyberOS هو توزيعة Linux تم إنشاؤها باستخدام Qt Quick و Arch Linux.",
+        "aboutCyberOS": "حول CyberOS",
+        "about": "حول",
+        "docs": "توثيق",
+        "footerCopyright": "حقوق النشر محفوظة © فريق CyberOS 2020-2021",
+        "wipDisclaimer": "Psst ، هذا الموقع قيد التنفيذ. يمكنك المساعدة عن طريق [إرسال طلب سحب].",
+        "download": "نزّل",
+        "introQuote": "توزيع Linux تم إنشاؤه باستخدام Qt Quick و Arch Linux."
+    }
+}
