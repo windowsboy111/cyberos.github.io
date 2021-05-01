@@ -2,11 +2,11 @@
     "website": {
         "download": "下載",
         "docs": "文檔",
-        "footerCopyright": "板拳誰有 🄯 版權所有 © CyberOS 團隊 2020–2021",
-        "wipDisclaimer": "噓，這個網站正被改進中。請[發送拉取請求]來幫幫我們。",
-        "introQuote": "一个用 Qt Quick 和 Arch Linux 构建的 Linux 发行版。",
+        "footerCopyright": "著左權所有 🄯 著作權所有 © CyberOS 團隊 2020–2021",
+        "wipDisclaimer": "噓，這個網站正在改進中。您可以 [發送拉取請求（Pull Request）] 來幫幫我們。",
+        "introQuote": "使用 Qt Quick 和 Arch Linux 構建的 Linux 發行版。",
         "about-CyberOSTeam": "CyberOS 團隊",
-        "about-p1": "CyberOS 是一个用 Qt Quick 和 Arch Linux 构建的 Linux 发行版。",
+        "about-p1": "CyberOS 是一个用 Qt Quick 和 Arch Linux 構建的 Linux 發行版。",
         "aboutCyberOS": "關於 CyberOS",
         "about": "關於"
     }
