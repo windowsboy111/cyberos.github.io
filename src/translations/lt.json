@@ -1,1 +1,13 @@
-{}
+{
+    "website": {
+        "about-CyberOSTeam": "\"CyberOS\" komanda",
+        "about-p1": "\"CyberOS\" yra \"Linux\" distributyvas, sukurtas naudojant \"Qt Quick\" ir \"Arch Linux\".",
+        "aboutCyberOS": "Apie \"CyberOS",
+        "about": "Apie",
+        "docs": "Dokumentacija",
+        "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
+        "wipDisclaimer": "Psst, ši svetainė yra nebaigta kurti. Galite padėti [išsiųsdami traukimo užklausą].",
+        "download": "Atsisiųsti",
+        "introQuote": "\"Linux\" distributyvas, sukurtas naudojant \"Qt Quick\" ir \"Arch Linux\"."
+    }
+}
