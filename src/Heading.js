@@ -22,7 +22,7 @@ export default class Heading extends React.Component {
           </Link>
           <a
             className="header-button"
-            href="https://dir.omame.tech/cyberos-iso/"
+            href="https://dir.omame.tech/mirrors/cyberos/iso/"
           >
             {getLanguageKey("download")}
           </a>
