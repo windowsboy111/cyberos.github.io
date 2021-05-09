@@ -11,7 +11,7 @@ export default class Heading extends React.Component {
       <div className="website-header">
         <p className="website-header-text">
           <Link to="/">
-            <img className="header-cyber-logo" src={CyberLogo} />
+            <img className="header-cyber-logo" alt="CyberOS" src={CyberLogo} />
             CyberOS
           </Link>
         </p>
@@ -22,9 +22,15 @@ export default class Heading extends React.Component {
           </Link>
           <a
             className="header-button"
-            href="https://dir.omame.tech/mirrors/cyberos/iso/"
+            href="https://dir.omame.tech/mirrors/cyberos/iso/latest/"
           >
             {getLanguageKey("download")}
+          </a>
+          <a
+            className="header-button"
+            href="https://twitter.com/CyberOS_Linux"
+          >
+            Twitter
           </a>
           <a className="header-button" href="https://github.com/cyberos">
             GitHub
