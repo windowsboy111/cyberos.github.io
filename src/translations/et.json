@@ -1,1 +1,13 @@
-{}
+{
+    "website": {
+        "about-CyberOSTeam": "CyberOS meeskond",
+        "about-p1": "CyberOS on Qt Quicki ja Arch Linuxi abil loodud Linuxi distributsioon.",
+        "aboutCyberOS": "CyberOSi kohta",
+        "about": "kohta",
+        "docs": "Dokumentatsioon",
+        "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
+        "wipDisclaimer": "Psst, see veebileht on pooleli olev töö. Saate aidata, saates [pull request].",
+        "download": "Lae alla",
+        "introQuote": "Qt Quicki ja Arch Linuxi abil loodud Linuxi distributsioon."
+    }
+}
