@@ -17,7 +17,7 @@ import si from "./translations/si.json";
 import th from "./translations/th.json";
 import tr from "./translations/tr.json";
 import uk from "./translations/uk.json";
-import zh_HK from "./translations/zh-HK.json";
+import yue from "./translations/yue.json";
 import zh from "./translations/zh.json";
 import zh_TW from "./translations/zh-TW.json";
 
@@ -42,8 +42,11 @@ const translations = {
   uk,
   zh,
   'zh-CN': zh,
-  'zh-HK': zh_HK,
-  'zh-TW': zh_TW
+  'yue': yue,
+  'yue-HK': yue,
+  'zh-HK': yue, // NOTE: zh-HK is not yue, but I am pretty sure no one's gonna reject using yue
+  'zh-TW': zh_TW,
+  'zh-SG': zh_TW
 };
 
 export function getLanguage() {
