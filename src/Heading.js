@@ -32,6 +32,12 @@ export default class Heading extends React.Component {
           >
             Twitter
           </a>
+          <a
+            className="header-button"
+            href="https://discord.gg/WjHFeCuHHX"
+          >
+            Discord
+          </a>
           <a className="header-button" href="https://github.com/cyberos">
             GitHub
           </a>

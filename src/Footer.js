@@ -16,11 +16,11 @@ export default class Footer extends React.Component {
         <div className="footer-content">
           <p>
             <a href="https://hosted.weblate.org/engage/cyberos/">
-              <img src={widgetSrc} />
+              <img src={widgetSrc} alt="Weblate" />
             </a>
           </p>
           <p>{getLanguageKey("footerCopyright")}</p>
-          <p dangerouslySetInnerHTML={{ __html: wipDisclaimerHTML }}></p>
+          <p style={{"fontStyle": "italic"}} dangerouslySetInnerHTML={{ __html: wipDisclaimerHTML }}></p>
         </div>
       </div>
     );
