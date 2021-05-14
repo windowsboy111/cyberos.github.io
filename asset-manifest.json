@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ee8c9dd.chunk.css",
+    "main.js": "/static/js/main.b5c6735a.chunk.js",
+    "main.js.map": "/static/js/main.b5c6735a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b16d7307.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b16d7307.js.map",
+    "static/js/2.c6d5573d.chunk.js": "/static/js/2.c6d5573d.chunk.js",
+    "static/js/2.c6d5573d.chunk.js.map": "/static/js/2.c6d5573d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1ee8c9dd.chunk.css.map": "/static/css/main.1ee8c9dd.chunk.css.map",
+    "static/js/2.c6d5573d.chunk.js.LICENSE.txt": "/static/js/2.c6d5573d.chunk.js.LICENSE.txt",
+    "static/media/cyber-logo.ad899d8c.svg": "/static/media/cyber-logo.ad899d8c.svg",
+    "static/media/hamburger-dark.18298bcd.svg": "/static/media/hamburger-dark.18298bcd.svg",
+    "static/media/hamburger-light.c019b65f.svg": "/static/media/hamburger-light.c019b65f.svg",
+    "static/media/preview_dark.c87ccf53.png": "/static/media/preview_dark.c87ccf53.png",
+    "static/media/preview_light.5bdf4f69.png": "/static/media/preview_light.5bdf4f69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b16d7307.js",
+    "static/js/2.c6d5573d.chunk.js",
+    "static/css/main.1ee8c9dd.chunk.css",
+    "static/js/main.b5c6735a.chunk.js"
+  ]
+}
