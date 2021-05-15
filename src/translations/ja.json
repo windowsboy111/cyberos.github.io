@@ -1,1 +1,13 @@
-{}
+{
+    "website": {
+        "about-CyberOSTeam": "CyberOSチーム",
+        "about-p1": "CyberOSは、Qt QuickとArch Linuxで構築されたLinuxディストリビューションです。",
+        "aboutCyberOS": "CyberOSについて",
+        "about": "このサービスについて",
+        "docs": "ドキュメント",
+        "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
+        "wipDisclaimer": "Psst, this website is a work-in-progress.あなたは、[Pull Requestを送る]ことで手助けすることができます。",
+        "download": "ダウンロード",
+        "introQuote": "Qt QuickとArch Linuxで構築されたLinuxディストリビューションです。"
+    }
+}
