@@ -8,6 +8,9 @@
         "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
         "wipDisclaimer": "Psst, ez a weboldal még fejlesztés alatt áll. Segíthetsz [pull request küldésével].",
         "download": "Letöltés",
-        "introQuote": "A Qt Quick és az Arch Linux segítségével készült Linux disztribúció."
+        "introQuote": "A Qt Quick és az Arch Linux segítségével készült Linux disztribúció.",
+        "about-p2": "A közösségi médiát itt találja:",
+        "about-socialMedia": "Közösségi média",
+        "donate": "Adományozni"
     }
 }
