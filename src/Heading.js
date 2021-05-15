@@ -26,23 +26,14 @@ export default class Heading extends React.Component {
           >
             {getLanguageKey("download")}
           </a>
-          <a
-            className="header-button"
-            href="https://twitter.com/CyberOS_Linux"
-          >
-            Twitter
-          </a>
-          <a
-            className="header-button"
-            href="https://discord.gg/WjHFeCuHHX"
-          >
-            Discord
-          </a>
           <a className="header-button" href="https://github.com/cyberos">
             GitHub
           </a>
           <a className="header-button" href="/docs/">
             {getLanguageKey("docs")}
+          </a>
+          <a className="header-button" href="https://www.paypal.com/donate/?hosted_button_id=G3LABE6PPHACN">
+            {getLanguageKey("donate")}
           </a>
         </Hamburger>
       </div>

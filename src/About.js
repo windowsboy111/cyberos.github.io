@@ -9,6 +9,11 @@ export default class About extends React.Component {
       <div className="about-container">
         <h1>{getLanguageKey("aboutCyberOS")}</h1>
         <p>{getLanguageKey("about-p1")}</p>
+        <h2>{getLanguageKey("about-socialMedia")}</h2>
+        <p>{getLanguageKey("about-p2")}{" "}
+          <a href="https://twitter.com/CyberOS_Linux">Twitter</a>,{" "}
+          <a href="https://discord.gg/WjHFeCuHHX">Discord</a>
+        </p>
         <h2>{getLanguageKey("about-CyberOSTeam")}</h2>
         <ul>
           <GitHubLink username="ChungZH">Flex Zhong</GitHubLink>

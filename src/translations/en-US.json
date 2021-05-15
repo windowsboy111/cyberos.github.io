@@ -8,6 +8,9 @@
         "about": "About",
         "aboutCyberOS": "About CyberOS",
         "about-p1": "CyberOS is a Linux distribution built with Qt Quick and Arch Linux.",
-        "about-CyberOSTeam": "CyberOS Team"
+        "about-CyberOSTeam": "CyberOS Team",
+        "donate": "Donate",
+        "about-socialMedia": "Social Media",
+        "about-p2": "You can find our social media here:"
     }
 }
