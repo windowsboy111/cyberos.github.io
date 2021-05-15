@@ -8,6 +8,9 @@
         "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
         "wipDisclaimer": "Psst, this website is a work-in-progress.あなたは、[Pull Requestを送る]ことで手助けすることができます。",
         "download": "ダウンロード",
-        "introQuote": "Qt QuickとArch Linuxで構築されたLinuxディストリビューションです。"
+        "introQuote": "Qt QuickとArch Linuxで構築されたLinuxディストリビューションです。",
+        "about-p2": "私たちのソーシャルメディアはこちらからご覧いただけます。",
+        "about-socialMedia": "ソーシャルメディア",
+        "donate": "寄贈"
     }
 }
