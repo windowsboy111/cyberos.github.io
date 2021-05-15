@@ -8,6 +8,9 @@
         "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
         "wipDisclaimer": "Ψιτ, αυτή η ιστοσελίδα είναι ένα έργο σε εξέλιξη. Μπορείτε να βοηθήσετε [στέλνοντας ένα pull request].",
         "download": "Λήψη",
-        "introQuote": "Μια διανομή Linux χτισμένη με το Qt Quick και το Arch Linux."
+        "introQuote": "Μια διανομή Linux χτισμένη με το Qt Quick και το Arch Linux.",
+        "about-p2": "Μπορείτε να βρείτε τα μέσα κοινωνικής δικτύωσης εδώ:",
+        "about-socialMedia": "Social Media",
+        "donate": "Δωρεά"
     }
 }
