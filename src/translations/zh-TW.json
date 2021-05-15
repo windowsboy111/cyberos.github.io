@@ -8,6 +8,9 @@
         "about-CyberOSTeam": "CyberOS 團隊",
         "about-p1": "CyberOS 是一個用 Qt Quick 和 Arch Linux 構建的 Linux 發行版。",
         "aboutCyberOS": "關於 CyberOS",
-        "about": "關於"
+        "about": "關於",
+        "about-p2": "你可以在这里找到我们的社会媒体。",
+        "about-socialMedia": "社会媒体",
+        "donate": "捐赠"
     }
 }
