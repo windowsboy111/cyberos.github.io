@@ -1,16 +1,16 @@
 {
     "website": {
-        "footerCopyright": "Gemenhetslig 🄯 Opphavsrett © CyberOS-laget 2020–2021",
-        "wipDisclaimer": "Hei, denne siden er under konstruksjon. Du kan hjelpe til ved å [sende en flettingsforespørsel].",
-        "download": "Last ned",
-        "introQuote": "En Linux-distribusjon bygd med Qt Quick og Arch Linux.",
-        "docs": "Dokumentasjon",
+        "about": "Om",
         "about-CyberOSTeam": "CyberOS-laget",
         "about-p1": "CyberOS er en Linux-distribusjon bygget med Qt Quick og Arch Linux.",
-        "aboutCyberOS": "Om CyberOS",
-        "about": "Om",
         "about-p2": "Du finner våre sosiale medier her:",
         "about-socialMedia": "Sosiale medier",
-        "donate": "Donere"
+        "aboutCyberOS": "Om CyberOS",
+        "docs": "Dokumentasjon",
+        "donate": "Donere",
+        "download": "Last ned",
+        "footerCopyright": "Gemenhetslig 🄯 Opphavsrett © CyberOS-laget 2020–2021",
+        "introQuote": "En Linux-distribusjon bygd med Qt Quick og Arch Linux.",
+        "wipDisclaimer": "Hei, denne siden er under konstruksjon. Du kan hjelpe til ved å [sende en flettingsforespørsel]."
     }
 }

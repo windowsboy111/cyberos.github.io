@@ -1,16 +1,16 @@
 {
     "website": {
-        "download": "Download",
-        "footerCopyright": "Copyright © CyberOS Team 2020–2021",
-        "docs": "Documentação",
-        "wipDisclaimer": "Ei, este website ainda está em construção. Você pode contribuir [enviando um pull request].",
-        "introQuote": "Uma distribuição Linux construída com Qt Quick e Arch Linux.",
+        "about": "Sobre",
         "about-CyberOSTeam": "Time do CyberOS",
         "about-p1": "CyberOS é uma distribuição Linux construída com Qt Quick e Arch Linux.",
-        "aboutCyberOS": "Sobre o CyberOS",
-        "about": "Sobre",
         "about-p2": "Você pode encontrar nossas mídias sociais aqui:",
         "about-socialMedia": "Mídias Sociais",
-        "donate": "Doe"
+        "aboutCyberOS": "Sobre o CyberOS",
+        "docs": "Documentação",
+        "donate": "Doe",
+        "download": "Download",
+        "footerCopyright": "Copyright © CyberOS Team 2020–2021",
+        "introQuote": "Uma distribuição Linux construída com Qt Quick e Arch Linux.",
+        "wipDisclaimer": "Ei, este website ainda está em construção. Você pode contribuir [enviando um pull request]."
     }
 }

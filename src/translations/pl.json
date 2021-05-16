@@ -1,16 +1,16 @@
 {
     "website": {
-        "introQuote": "Dystrybucja Linuxa, zbudowana z Qt Quick i Arch Linux.",
-        "download": "Pobierz",
-        "wipDisclaimer": "Psst, ta strona jest dalej budowana. Możesz pomóc [wysłając pull request].",
-        "footerCopyright": "Copyleft 🄯 Prawa autorskie © CyberOS Team 2020 ~ 2021",
-        "docs": "Dokumentacja",
         "about": "O CyberOS",
-        "aboutCyberOS": "O CyberOS",
-        "about-p1": "CyberOS to dystrybucja Linuxa, zbudowana z Qt Quick i Arch Linux.",
         "about-CyberOSTeam": "Zespół CyberOS",
-        "donate": "Przekaż darowiznę",
+        "about-p1": "CyberOS to dystrybucja Linuxa, zbudowana z Qt Quick i Arch Linux.",
+        "about-p2": "Możesz znaleść nasze media media społecznościowe tutaj:",
         "about-socialMedia": "Media społecznościowe",
-        "about-p2": "Możesz znaleść nasze media media społecznościowe tutaj:"
+        "aboutCyberOS": "O CyberOS",
+        "docs": "Dokumentacja",
+        "donate": "Przekaż darowiznę",
+        "download": "Pobierz",
+        "footerCopyright": "Copyleft 🄯 Prawa autorskie © CyberOS Team 2020 ~ 2021",
+        "introQuote": "Dystrybucja Linuxa, zbudowana z Qt Quick i Arch Linux.",
+        "wipDisclaimer": "Psst, ta strona jest dalej budowana. Możesz pomóc [wysłając pull request]."
     }
 }

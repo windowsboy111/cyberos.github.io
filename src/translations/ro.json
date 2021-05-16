@@ -1,16 +1,16 @@
 {
     "website": {
+        "about": "Despre",
         "about-CyberOSTeam": "Echipa CyberOS",
         "about-p1": "CyberOS este o distribuție Linux construită cu Qt Quick și Arch Linux.",
-        "aboutCyberOS": "Despre CyberOS",
-        "about": "Despre",
-        "docs": "Documentație",
-        "footerCopyright": "Copyleft 🄯 Copyright © Echipa CyberOS 2020-2021",
-        "wipDisclaimer": "Psst, acest site web este o lucrare în desfășurare. Puteți ajuta [trimițând o cerere de publicare].",
-        "download": "Descărcați",
-        "introQuote": "O distribuție Linux construită cu Qt Quick și Arch Linux.",
         "about-p2": "Puteți găsi mediile noastre sociale aici:",
         "about-socialMedia": "Social Media",
-        "donate": "Donează"
+        "aboutCyberOS": "Despre CyberOS",
+        "docs": "Documentație",
+        "donate": "Donează",
+        "download": "Descărcați",
+        "footerCopyright": "Copyleft 🄯 Copyright © Echipa CyberOS 2020-2021",
+        "introQuote": "O distribuție Linux construită cu Qt Quick și Arch Linux.",
+        "wipDisclaimer": "Psst, acest site web este o lucrare în desfășurare. Puteți ajuta [trimițând o cerere de publicare]."
     }
 }

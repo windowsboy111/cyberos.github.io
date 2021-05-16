@@ -3,13 +3,13 @@ import ar from "./translations/ar.json";
 import cs from "./translations/cs.json";
 import de from "./translations/de.json";
 import el from "./translations/el.json";
-import et from "./translations/et.json";
-import en_US from "./translations/en-US.json";
+import en from "./translations/en-US.json";
 import es from "./translations/es.json";
 import es_MX from "./translations/es-MX.json";
+import et from "./translations/et.json";
 import fa from "./translations/fa.json";
-import he_IL from "./translations/he-IL.json";
 import he from "./translations/he.json";
+import he_IL from "./translations/he-IL.json";
 import hi from "./translations/hi.json";
 import hu from "./translations/hu.json";
 import id from "./translations/id.json";
@@ -18,6 +18,7 @@ import ja from "./translations/ja.json";
 import lt from "./translations/lt.json";
 import ml from "./translations/ml.json";
 import nb_NO from "./translations/nb-NO.json";
+import nl from "./translations/nl.json"
 import pl from "./translations/pl.json";
 import pt_BR from "./translations/pt-BR.json";
 import ro from "./translations/ro.json";
@@ -27,8 +28,7 @@ import sr from "./translations/sr.json";
 import th from "./translations/th.json";
 import tr from "./translations/tr.json";
 import uk from "./translations/uk.json";
-import yue_HK from "./translations/yue-HK.json";
-import zh_HK from "./translations/zh-HK.json";
+import yue from "./translations/yue.json";
 import zh from "./translations/zh.json";
 import zh_TW from "./translations/zh-TW.json";
 
@@ -37,12 +37,14 @@ const translations = {
   cs,
   de,
   el,
-  'en-US': en_US,
+  en,
+  'en-US': en,
   es,
   'es-MX': es_MX,
+  et,
   fa,
-  'he-IL': he_IL,
   he,
+  'he-IL': he_IL,
   hi,
   hu,
   id,
@@ -51,6 +53,7 @@ const translations = {
   lt,
   ml,
   'nb-NO': nb_NO,
+  nl,
   pl,
   'pt-BR': pt_BR,
   ro,
@@ -60,11 +63,12 @@ const translations = {
   th,
   tr,
   uk,
-  'yue-HK': yue_HK,
-  yue: yue_HK,
+  yue,
+  'yue-HK': yue,
   zh,
   'zh-CN': zh,
-  'zh-HK': zh_HK,
+  'zh-HK': yue, // NOTE: zh-HK is not yue, but I am pretty sure no one's gonna reject using yue
+  'zh-SG': zh_TW, // not available
   'zh-TW': zh_TW
 };
 
@@ -76,10 +80,10 @@ export default function getLanguageKey(key) {
   const keys = translations[getLanguage()];
 
   let rootKey = keys.website;
-  if (!rootKey) rootKey = en_US.website;
+  if (!rootKey) rootKey = en.website;
 
   let output = rootKey[key];
-  if (!output) output = en_US.website[key];
+  if (!output) output = en.website[key];
 
   return output;
 }

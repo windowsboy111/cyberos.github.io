@@ -1,16 +1,16 @@
 {
     "website": {
-        "download": "下载",
-        "footerCopyright": "版权属左 🄯 版权所有 © CyberOS 团队 2020–2021",
-        "docs": "文档",
-        "wipDisclaimer": "嘘，这个网站还在完善中。您可以通过 [发送拉取请求（Pull Request）] 来帮助我们。",
-        "introQuote": "使用 Qt Quick 与 Arch Linux 构建的 Linux 发行版。",
+        "about": "关于",
         "about-CyberOSTeam": "CyberOS 团队",
         "about-p1": "CyberOS 是一个用 Qt Quick 和 Arch Linux 构建的 Linux 发行版。",
+        "about-p2": "你可以在这里找到我们的社交媒体。",
+        "about-socialMedia": "社交媒体",
         "aboutCyberOS": "关于 CyberOS",
-        "about": "关于",
-        "about-p2": "你可以在这里找到我们的社会媒体。",
-        "about-socialMedia": "社会媒体",
-        "donate": "捐赠"
+        "docs": "文档",
+        "donate": "捐赠",
+        "download": "下载",
+        "footerCopyright": "版权属左 🄯 版权所有 © CyberOS 团队 2020–2021",
+        "introQuote": "使用 Qt Quick 与 Arch Linux 构建的 Linux 发行版。",
+        "wipDisclaimer": "嘘，这个网站还在完善中。您可以通过 [发送拉取请求（Pull Request）] 来帮助我们。"
     }
 }

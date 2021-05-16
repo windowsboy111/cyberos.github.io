@@ -1,16 +1,16 @@
 {
     "website": {
+        "about": "കുറിച്ച്",
         "about-CyberOSTeam": "CyberOS Team",
         "about-p1": "Qt Quick, Arch Linux എന്നിവകൊണ്ട് നിർമ്മിച്ച ഒരു ലിനക്സ് ഡിസ്ട്റോ.",
-        "aboutCyberOS": "CyberOS- നെക്കുറിച്ച്",
-        "about": "കുറിച്ച്",
-        "docs": "പ്രമാണീകരണം",
-        "footerCopyright": "പകർപ്പവകാശം © CyberOS Team 2020–2021",
-        "wipDisclaimer": "ഈ വെബ്സൈറ്റ് നിർമാണത്തിലാണ്. ഒരു പുൾ അഭ്യർത്ഥന അയച്ചുകൊണ്ട് നിങ്ങൾക്ക് സഹായിക്കാനായേക്കാം.",
-        "download": "ഡൗൺലോഡ്",
-        "introQuote": "Qt Quick, Arch Linux എന്നിവകൊണ്ട് നിർമ്മിച്ച ഒരു ലിനക്സ് ഡിസ്ട്റോ.",
         "about-p2": "നിങ്ങൾക്ക് ഞങ്ങളുടെ സോഷ്യൽ മീഡിയ ഇവിടെ കണ്ടെത്താം:",
         "about-socialMedia": "സോഷ്യൽ മീഡിയ",
-        "donate": "സംഭാവനചെയ്യുക"
+        "aboutCyberOS": "CyberOS- നെക്കുറിച്ച്",
+        "docs": "പ്രമാണീകരണം",
+        "donate": "സംഭാവനചെയ്യുക",
+        "download": "ഡൗൺലോഡ്",
+        "footerCopyright": "പകർപ്പവകാശം © CyberOS Team 2020–2021",
+        "introQuote": "Qt Quick, Arch Linux എന്നിവകൊണ്ട് നിർമ്മിച്ച ഒരു ലിനക്സ് ഡിസ്ട്റോ.",
+        "wipDisclaimer": "ഈ വെബ്സൈറ്റ് നിർമാണത്തിലാണ്. ഒരു പുൾ അഭ്യർത്ഥന അയച്ചുകൊണ്ട് നിങ്ങൾക്ക് സഹായിക്കാനായേക്കാം."
     }
 }
