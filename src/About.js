@@ -16,12 +16,11 @@ export default class About extends React.Component {
         </p>
         <h2>{getLanguageKey("about-CyberOSTeam")}</h2>
         <ul>
+          <GitHubLink username="alvarosamudio">Alvaro Samudio</GitHubLink>
           <GitHubLink username="ChungZH">Flex Zhong</GitHubLink>
-          <GitHubLink username="felixonmars">Felix Yan</GitHubLink>
           <GitHubLink username="omaemae">omame</GitHubLink>
           <GitHubLink username="probonopd">Simon Peter</GitHubLink>
           <GitHubLink username="rekols">Reven Martin</GitHubLink>
-          <GitHubLink username="Z-bin" usernameOnly />
         </ul>
       </div>
     );
