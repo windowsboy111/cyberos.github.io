@@ -80,10 +80,10 @@ export default function getLanguageKey(key) {
   const keys = translations[getLanguage()];
 
   let rootKey = keys.website;
-  if (!rootKey) rootKey = en_US.website;
+  if (!rootKey) rootKey = en.website;
 
   let output = rootKey[key];
-  if (!output) output = en_US.website[key];
+  if (!output) output = en.website[key];
 
   return output;
 }
