@@ -1,13 +1,13 @@
 {
     "website": {
+        "about": "Tentang",
         "about-CyberOSTeam": "Tim CyberOS",
         "about-p1": "CyberOS adalah distribusi Linux yang dibangun dengan Qt Quick dan Arch Linux.",
         "aboutCyberOS": "Tentang CyberOS",
-        "about": "Tentang",
         "docs": "Dokumentasi",
-        "footerCopyright": "Hak Cipta © Tim CyberOS 2020–2021",
-        "wipDisclaimer": "Ssst, situs web ini masih dalam proses. Anda dapat membantu dengan [mengirim pull request].",
         "download": "Unduh",
-        "introQuote": "Distribusi Linux yang dibangun dengan Qt Quick dan Arch Linux."
+        "footerCopyright": "Hak Cipta © Tim CyberOS 2020–2021",
+        "introQuote": "Distribusi Linux yang dibangun dengan Qt Quick dan Arch Linux.",
+        "wipDisclaimer": "Ssst, situs web ini masih dalam proses. Anda dapat membantu dengan [mengirim pull request]."
     }
 }

@@ -1,13 +1,13 @@
 {
     "website": {
-        "introQuote": "Qt Quick ve Arch Linux ile oluşturulmuş bir Linux dağıtımı.",
-        "download": "İndir",
-        "docs": "Dokümantasyon",
-        "footerCopyright": "Telif Hakkı © CyberOS Ekibi 2020–2021",
-        "wipDisclaimer": "Psst, bu websitesi hala bitmedi. Bir pull request yollayarak yardımcı olabilirsin.",
+        "about": "Hakkında",
         "about-CyberOSTeam": "CyberOS Ekibi",
         "about-p1": "CyberOS, Qt Quick ve Arch Linux ile oluşturulmuş bir Linux dağıtımıdır.",
         "aboutCyberOS": "CyberOS hakkında",
-        "about": "Hakkında"
+        "docs": "Dokümantasyon",
+        "download": "İndir",
+        "footerCopyright": "Telif Hakkı © CyberOS Ekibi 2020–2021",
+        "introQuote": "Qt Quick ve Arch Linux ile oluşturulmuş bir Linux dağıtımı.",
+        "wipDisclaimer": "Psst, bu websitesi hala bitmedi. Bir pull request yollayarak yardımcı olabilirsin."
     }
 }

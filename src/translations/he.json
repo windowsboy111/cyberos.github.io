@@ -1,13 +1,13 @@
 {
     "website": {
+        "about": "על אודות",
         "about-CyberOSTeam": "צוות CyberOS",
         "about-p1": "CyberOS היא הפצה של לינוקס שנבנתה עם Qt Quick ו- Arch Linux.",
         "aboutCyberOS": "אודות CyberOS",
-        "about": "על אודות",
         "docs": "תיעוד",
-        "footerCopyright": "Copyleft 🄯 זכויות יוצרים © צוות CyberOS 2020–2021",
-        "wipDisclaimer": "Psst, אתר זה הוא עבודה בתהליך. אתה יכול לעזור על ידי [שליחת בקשת משיכה].",
         "download": "הורדה",
-        "introQuote": "הפצה לינוקס שנבנתה עם Qt Quick ו- Arch Linux."
+        "footerCopyright": "Copyleft 🄯 זכויות יוצרים © צוות CyberOS 2020–2021",
+        "introQuote": "הפצה לינוקס שנבנתה עם Qt Quick ו- Arch Linux.",
+        "wipDisclaimer": "Psst, אתר זה הוא עבודה בתהליך. אתה יכול לעזור על ידי [שליחת בקשת משיכה]."
     }
 }

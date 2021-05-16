@@ -1,13 +1,13 @@
 {
     "website": {
+        "about": "Σχετικά",
         "about-CyberOSTeam": "Ομάδα CyberOS",
         "about-p1": "Το CyberOS είναι μια διανομή Linux κατασκευασμένη με Qt Quick και Arch Linux.",
         "aboutCyberOS": "Σχετικά με το CyberOS",
-        "about": "Σχετικά",
         "docs": "Τεκμηρίωση",
-        "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
-        "wipDisclaimer": "Ψιτ, αυτή η ιστοσελίδα είναι ένα έργο σε εξέλιξη. Μπορείτε να βοηθήσετε [στέλνοντας ένα pull request].",
         "download": "Λήψη",
-        "introQuote": "Μια διανομή Linux χτισμένη με το Qt Quick και το Arch Linux."
+        "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020-2021",
+        "introQuote": "Μια διανομή Linux χτισμένη με το Qt Quick και το Arch Linux.",
+        "wipDisclaimer": "Ψιτ, αυτή η ιστοσελίδα είναι ένα έργο σε εξέλιξη. Μπορείτε να βοηθήσετε [στέλνοντας ένα pull request]."
     }
 }
