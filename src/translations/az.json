@@ -2,15 +2,15 @@
     "website": {
         "wipDisclaimer": "Əlavə olaraq, bu veb sayt tamamlanmaq üzrədir. [Çəkmə sorğusu göndərməklə] kömək edə bilərsiniz.",
         "introQuote": "Qt Quick və Arch Linux ilə qurulmuş bir Linux dağıtımı.",
-        "footerCopyright": "Copyleft 🄯 Müəllif hüquqları © CyberOS Team 2020–2021",
+        "footerCopyright": "Copyleft 🄯 Müəllif hüquqları © CyberOS Komanda 2020–2021",
         "download": "Yükləyin",
-        "donate": "Bağış edin",
+        "donate": "ianə vermək",
         "docs": "Sənədlər",
-        "aboutCyberOS": "CyberOS haqqında",
+        "aboutCyberOS": "CyberOS Haqqında",
         "about-socialMedia": "Sosial Mediya",
         "about-p2": "Sosial mediamızı burada tapa bilərsiniz:",
         "about-p1": "CyberOS, Qt Quick və Arch Linux ilə qurulmuş bir Linux dağıtımıdır.",
-        "about-LeadDeveloper": "Aparıcı İnkişaf etdiricilər",
+        "about-LeadDeveloper": "Baş Yaradıcılar",
         "about-CyberOSTeam": "CyberOS Komandası",
         "about": "Haqqında"
     }
