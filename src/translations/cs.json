@@ -11,6 +11,7 @@
         "download": "Stáhnout",
         "footerCopyright": "Copyleft 🄯 Copyright © Tým CyberOS 2020–2021",
         "introQuote": "Linuxová distribuce postavená na Qt Quick a Arch Linux.",
-        "wipDisclaimer": "Pššt, tento web je ve vývoji. Můžete nám pomoct [zasláním pull požadavku]."
+        "wipDisclaimer": "Pššt, tento web je ve vývoji. Můžete nám pomoct [zasláním pull požadavku].",
+        "about-LeadDeveloper": "Vedoucí vývojáři"
     }
 }
