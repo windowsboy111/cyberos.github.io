@@ -2,6 +2,7 @@
     "website": {
         "about": "About",
         "about-CyberOSTeam": "CyberOS Team",
+        "about-LeadDeveloper": "Lead Developer",
         "about-p1": "CyberOS is a Linux distribution built with Qt Quick and Arch Linux.",
         "about-p2": "You can find our social media here:",
         "about-socialMedia": "Social Media",

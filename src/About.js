@@ -14,13 +14,17 @@ export default class About extends React.Component {
           <a href="https://twitter.com/CyberOS_Linux">Twitter</a>,{" "}
           <a href="https://discord.gg/WjHFeCuHHX">Discord</a>
         </p>
+        <h2>{getLanguageKey("about-LeadDeveloper")}</h2>
+        <ul>
+          <GitHubLink username="revenmartin">Reven Martin</GitHubLink>
+          <GitHubLink username="omaemae">omame</GitHubLink>
+        </ul>
+
         <h2>{getLanguageKey("about-CyberOSTeam")}</h2>
         <ul>
           <GitHubLink username="alvarosamudio">Alvaro Samudio</GitHubLink>
           <GitHubLink username="ChungZH">Flex Zhong</GitHubLink>
-          <GitHubLink username="omaemae">omame</GitHubLink>
           <GitHubLink username="probonopd">Simon Peter</GitHubLink>
-          <GitHubLink username="rekols">Reven Martin</GitHubLink>
         </ul>
       </div>
     );
