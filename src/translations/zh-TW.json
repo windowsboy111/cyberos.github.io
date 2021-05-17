@@ -3,7 +3,7 @@
         "about": "關於",
         "about-CyberOSTeam": "CyberOS 團隊",
         "about-p1": "CyberOS 是一個用 Qt Quick 和 Arch Linux 構建的 Linux 發行版。",
-        "about-p2": "你可以在這裡找到我們的社交媒體。",
+        "about-p2": "你可以在這裡找到我們的社交媒體：",
         "about-socialMedia": "社交媒體",
         "aboutCyberOS": "關於 CyberOS",
         "docs": "說明文檔",
@@ -12,6 +12,6 @@
         "footerCopyright": "著左權所有 🄯 著作權所有 © CyberOS 團隊 2020–2021",
         "introQuote": "使用 Qt Quick 和 Arch Linux 構建的 Linux 發行版。",
         "wipDisclaimer": "噓，這個網站正在改進中。您可以[發送拉取請求（Pull Request）]來幫助我們。",
-        "about-LeadDeveloper": "首席开发人员"
+        "about-LeadDeveloper": "領先開發者"
     }
 }
