@@ -11,6 +11,7 @@
         "download": "Download",
         "footerCopyright": "Copyleft 🄯 Copyright © CyberOS Team 2020–2021",
         "introQuote": "Een linux distro gebouwd op Qt Quick en Arch Linux.",
-        "wipDisclaimer": "Psst, deze website is work-in-progress. Je kan altijd helpen door[sending a pull request]."
+        "wipDisclaimer": "Psst, deze website is work-in-progress. Je kan altijd helpen door[sending a pull request].",
+        "about-LeadDeveloper": "Leidende ontwikkelaars"
     }
 }
