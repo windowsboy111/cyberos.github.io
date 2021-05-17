@@ -11,6 +11,7 @@
         "download": "הורדה",
         "footerCopyright": "Copyleft 🄯 זכויות יוצרים © צוות CyberOS 2020–2021",
         "introQuote": "הפצה לינוקס שנבנתה עם Qt Quick ו- Arch Linux.",
-        "wipDisclaimer": "Psst, אתר זה הוא עבודה בתהליך. אתה יכול לעזור על ידי [שליחת בקשת משיכה]."
+        "wipDisclaimer": "Psst, אתר זה הוא עבודה בתהליך. אתה יכול לעזור על ידי [שליחת בקשת משיכה].",
+        "about-LeadDeveloper": "מפתחים מובילים"
     }
 }
