@@ -11,6 +11,7 @@
         "download": "下載",
         "footerCopyright": "著左權所有 🄯 著作權所有 © CyberOS 團隊 2020–2021",
         "introQuote": "使用 Qt Quick 和 Arch Linux 構建的 Linux 發行版。",
-        "wipDisclaimer": "噓，這個網站正在改進中。您可以[發送拉取請求（Pull Request）]來幫助我們。"
+        "wipDisclaimer": "噓，這個網站正在改進中。您可以[發送拉取請求（Pull Request）]來幫助我們。",
+        "about-LeadDeveloper": "首席开发人员"
     }
 }
