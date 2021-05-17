@@ -11,6 +11,7 @@
         "download": "Download",
         "footerCopyright": "Copyright © CyberOS Team 2020–2021",
         "introQuote": "Uma distribuição Linux construída com Qt Quick e Arch Linux.",
-        "wipDisclaimer": "Ei, este website ainda está em construção. Você pode contribuir [enviando um pull request]."
+        "wipDisclaimer": "Ei, este website ainda está em construção. Você pode contribuir [enviando um pull request].",
+        "about-LeadDeveloper": "Desenvolvedores líderes"
     }
 }
