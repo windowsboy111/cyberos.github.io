@@ -28,7 +28,7 @@ import sr from "./translations/sr.json";
 import th from "./translations/th.json";
 import tr from "./translations/tr.json";
 import uk from "./translations/uk.json";
-import yue from "./translations/yue.json";
+import yue from "./translations/yue-HK.json";
 import zh from "./translations/zh.json";
 import zh_TW from "./translations/zh-TW.json";
 
