@@ -1,0 +1,17 @@
+{
+    "website": {
+        "about": "Haqqında",
+        "about-CyberOSTeam": "CyberOS Komandası",
+        "about-LeadDeveloper": "Baş Yaradıcılar",
+        "about-p1": "CyberOS, Qt Quick və Arch Linux ilə qurulmuş bir Linux dağıtımıdır.",
+        "about-p2": "Sosial mediamızı burada tapa bilərsiniz:",
+        "about-socialMedia": "Sosial Mediya",
+        "aboutCyberOS": "CyberOS Haqqında",
+        "docs": "Sənədlər",
+        "donate": "ianə vermək",
+        "download": "Yükləyin",
+        "footerCopyright": "Copyleft 🄯 Müəllif hüquqları © CyberOS Komanda 2020–2021",
+        "introQuote": "Qt Quick və Arch Linux ilə qurulmuş bir Linux dağıtımı.",
+        "wipDisclaimer": "Əlavə olaraq, bu veb sayt tamamlanmaq üzrədir. [Çəkmə sorğusu göndərməklə] kömək edə bilərsiniz."
+    }
+}

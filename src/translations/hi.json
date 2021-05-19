@@ -1,16 +1,17 @@
 {
     "website": {
-        "about": "तकरीबन",
-        "about-CyberOSTeam": "साइबर टीम",
-        "about-p1": "साइबरओएस एक लिनक्स वितरण है जिसे क्यूटी क्विक और आर्क लिनक्स के साथ बनाया गया है।",
+        "about": "हम",
+        "about-CyberOSTeam": "CyberOS Team",
+        "about-LeadDeveloper": "लीड डेवलपर्स",
+        "about-p1": "CyberOS एक लिनक्स वितरण है जिसे Qt Quick और Arch Linux के साथ बनाया गया है।",
         "about-p2": "आप हमारे सोशल मीडिया को यहां देख सकते हैं:",
-        "about-socialMedia": "सामाजिक मीडिया",
-        "aboutCyberOS": "साइबरओएस के बारे में",
+        "about-socialMedia": "सोशल मीडिया",
+        "aboutCyberOS": "CyberOS के बारे में",
         "docs": "प्रलेखन",
-        "donate": "दान करना",
+        "donate": "उपहार देना",
         "download": "डाउनलोड",
-        "footerCopyright": "Copyleft yle कॉपीराइट © साइबरओएस टीम 2020-2021",
-        "introQuote": "क्यूटी क्विक और आर्क लिनक्स के साथ निर्मित एक लिनक्स वितरण।",
+        "footerCopyright": "कॉपीराइट © CyberOS Team 2020-2021",
+        "introQuote": "Qt Quick और Arch Linux के साथ निर्मित एक लिनक्स वितरण।",
         "wipDisclaimer": "Psst, यह वेबसाइट एक कार्य-प्रगति है। आप [एक पुल अनुरोध भेजकर] मदद कर सकते हैं।"
     }
 }
